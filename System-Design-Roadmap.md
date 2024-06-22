@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="diagrams/system-design-github-logo.png" width="350" height="200">
-</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://blog.algomaster.io/">Newsletter</a>
 </p>
@@ -64,7 +62,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 
 
 ## ✅ How to Answer a System Design Interview Problem
-<img src="diagrams/interview-template.png" width="400" height="250">
+<img src="interview-template.png" width="400" height="250">
 
 ### [Read the Full Article](https://blog.algomaster.io/p/how-to-answer-a-system-design-interview-problem)
 
