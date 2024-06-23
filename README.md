@@ -2,6 +2,9 @@
 
  # High-Level-System-Design
 
+ Tools:
+ Whimsical: https://whimsical.com/
+
 Learn System Design concepts and prepare for interviews using free resources.
 
 ## 📌 System Design Key Concepts
