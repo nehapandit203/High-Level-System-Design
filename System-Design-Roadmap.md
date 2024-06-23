@@ -68,12 +68,12 @@ Learn System Design concepts and prepare for interviews using free resources.
 <div class="row">
   <div class="column">
     <img src="interview-template.png" width="400" height="250">
+     <img src="place-value.jpg" width="400" height="250">
     <img src="hld-steps.jpg" width="400" height="250">
     <img src="number-system.jpg" width="400" height="250">
     <img src="storage-unit-1.jpg" width="400" height="250">
     <img src="storage-unit-2.jpg" width="400" height="250">
-    ![Place Value :: ](https://github.com/nehapandit203/High-Level-System-Design/assets/29502326/21565829-bd32-4df3-adcb-b982aedecd45)
-
+   
   </div>
    </div>
 
