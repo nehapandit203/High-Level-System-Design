@@ -1,11 +1,11 @@
 
 
  # High-Level-System-Design
+ 
+ Learn System Design concepts and prepare for interviews using free resources.
 
 #### Tools To Design HLD:
- Whimsical: https://whimsical.com/
-
-Learn System Design concepts and prepare for interviews using free resources.
+- https://whimsical.com/
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
