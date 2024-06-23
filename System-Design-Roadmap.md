@@ -68,7 +68,7 @@ Learn System Design concepts and prepare for interviews using free resources.
 <div class="row">
   <div class="column">
     <img src="interview-template.png" width="400" height="250">
-     <img src="place-value.jpg" width="400" height="250">
+     <img src="place-value.png" width="400" height="250">
     <img src="hld-steps.jpg" width="400" height="250">
     <img src="number-system.jpg" width="400" height="250">
     <img src="storage-unit-1.jpg" width="400" height="250">
