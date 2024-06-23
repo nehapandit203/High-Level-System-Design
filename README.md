@@ -1,7 +1,7 @@
 
-<p align="center">
-  High-Level-System-Design
-</p>
+
+ # High-Level-System-Design
+
 Learn System Design concepts and prepare for interviews using free resources.
 
 ## 📌 System Design Key Concepts
