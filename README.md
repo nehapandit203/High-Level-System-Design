@@ -6,6 +6,9 @@
 
 #### Tools To Design HLD:
 - https://whimsical.com/
+#### Back od the envelop calculation
+
+- [Capacity Estimation](https://systemdesign.one/back-of-the-envelope/)
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
