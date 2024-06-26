@@ -9,6 +9,7 @@
 #### Back of the envelop calculation
 
 - [Capacity Estimation](https://systemdesign.one/back-of-the-envelope/)
+- [Cheat Sheet](https://systemdesign.one/system-design-interview-cheatsheet/)
 
 ## 📌 System Design Key Concepts
 - [Scalability](https://blog.algomaster.io/p/scalability)
