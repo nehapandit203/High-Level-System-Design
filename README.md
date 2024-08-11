@@ -2,7 +2,7 @@
 
  # High-Level-System-Design
  
- Learn System Design concepts and prepare for interviews using free resources.
+ Learn System Design concepts.
 
 #### Tools To Design HLD:
 - https://whimsical.com/
