@@ -168,6 +168,13 @@
 
 ## 📺 YouTube Channels
 - [Tech Dummies Narendra L](https://www.youtube.com/@TechDummiesNarendraL)
+
+  Steps:
+Requirement
+Capacity Esitimation
+DB schema
+API Design 
+Architecture
 - [Gaurav Sen](https://www.youtube.com/@gkcs)
 - [codeKarle](https://www.youtube.com/@codeKarle)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
