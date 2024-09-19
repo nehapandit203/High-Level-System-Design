@@ -59,6 +59,7 @@
 - [API Gateway](https://www.nginx.com/learn/api-gateway/)
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
+- [Distributed Transactions](https://www.youtube.com/watch?v=ET_DnJgfplY)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
