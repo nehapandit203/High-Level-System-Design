@@ -128,7 +128,7 @@
 - [Design a Hotstar]
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
-- [Design Uber][(https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)
+- [Design Uber](https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)
   - Part 2(https://www.youtube.com/watch?v=M4lR_Va97cQ&t=305s&pp=ygURcHJveGltaXR5IHNlcnZpY2U%3D)
   - Part 3(https://newsletter.systemdesign.one/p/uber-eta)
 - [Design Food Delivery App like Doordash](https://www.youtube.com/watch?v=iRhSAR3ldTw)
