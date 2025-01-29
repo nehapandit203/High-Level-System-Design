@@ -104,8 +104,7 @@
 - [Design Instagram](https://www.youtube.com/watch?v=VJpfO6KdyWE)
 - [Design Tinder](https://www.youtube.com/watch?v=tndzLznxq40)
 - [Design WhatsApp](https://www.youtube.com/watch?v=vvhC64hQZMk)
-    -[algomaster](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp), -[hellointerview](https://www.hellointerview.com/learn/system-design/problem-breakdowns/whatsapp#1-users-should-be-able-to-start-group-chats-with-multiple-participants-limit-100), -[bytebytego](https://bytebytego.com/courses/system-design-interview/design-a-chat-system), -systemdesign[](https://systemdesign.one/back-of-the-envelope/)
-    -
+  [algomaster](https://blog.algomaster.io/p/design-a-chat-application-like-whatsapp),[hellointerview](https://www.hellointerview.com/learn/system-design/problem-breakdowns/whatsapp#1-users-should-be-able-to-start-group-chats-with-multiple-participants-limit-100),[bytebytego](https://bytebytego.com/courses/system-design-interview/design-a-chat-system),[systemdesign](https://systemdesign.one/back-of-the-envelope/)
 - [Design Facebook](https://www.youtube.com/watch?v=9-hjBGxuiEs)
 - [Design Twitter](https://www.youtube.com/watch?v=wYk0xPP_P_8)
 - [Design Reddit](https://www.youtube.com/watch?v=KYExYE_9nIY)
