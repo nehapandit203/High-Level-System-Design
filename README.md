@@ -6,6 +6,7 @@
 
 #### Tools To Design HLD:
 - https://whimsical.com/
+- https://lucid.app/
 #### Back of the envelop calculation
 
 - [Capacity Estimation](https://systemdesign.one/back-of-the-envelope/)
