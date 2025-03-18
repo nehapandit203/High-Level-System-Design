@@ -128,7 +128,15 @@
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
-- [Design a Hotstar] (https://zahere.com/designing-a-live-video-streaming-service-like-disney-hotstar) ,(https://www.geeksforgeeks.org/how-disney-hotstar-managed-5-cr-live-viewers-during-indias-t20-world-cup-win/),(https://zahere.com/designing-a-live-video-streaming-service-like-disney-hotstar),(https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-2-a5c11a33891a),(https://www.youtube.com/watch?v=kebzEEEeGBo),(https://www.techaheadcorp.com/blog/decoding-the-incredible-scalability-of-disneyhotstar-app-system-structure-concurrency-more/),(https://blog.hotstar.com/scaling-infrastructure-for-millions-from-challenges-to-triumphs-part-1-6099141a99ef),(https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
+- [Design a Hotstar]
+   (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-1-159db2a3ca5d)
+   (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-2-a5c11a33891a)
+   (https://zahere.com/designing-a-live-video-streaming-service-like-disney-hotstar)
+   (https://www.geeksforgeeks.org/how-disney-hotstar-managed-5-cr-live-viewers-during-indias-t20-world-cup-win/),
+   (https://www.youtube.com/watch?v=kebzEEEeGBo)
+   (https://www.techaheadcorp.com/blog/decoding-the-incredible-scalability-of-disneyhotstar-app-system-structure-concurrency-more/),
+   (https://blog.hotstar.com/scaling-infrastructure-for-millions-from-challenges-to-triumphs-part-1-6099141a99ef)
+   (https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)
