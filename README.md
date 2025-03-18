@@ -61,6 +61,7 @@
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksums](https://blog.algomaster.io/p/what-are-checksums)
 - [Distributed Transactions](https://www.youtube.com/watch?v=ET_DnJgfplY)
+- [Networking Essential](https://www.youtube.com/watch?v=SHkbPm1Wrno&t=71s&pp=ygUVbmV0d29ya2luZyBlc3NlbnRpYWxz)
 
 ## 🖇️ System Design Architectural Patterns
 - [Client-Server Architecture](https://www.redswitches.com/blog/client-server-architecture/)
