@@ -128,7 +128,7 @@
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
-- [Design a Hotstar]
+- [Design a Hotstar](https://www.scaler.com/academy/mentee-dashboard/class/77835/session)
    (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-1-159db2a3ca5d)
    (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-2-a5c11a33891a)
    (https://zahere.com/designing-a-live-video-streaming-service-like-disney-hotstar)
@@ -137,7 +137,7 @@
    (https://www.techaheadcorp.com/blog/decoding-the-incredible-scalability-of-disneyhotstar-app-system-structure-concurrency-more/),
    (https://blog.hotstar.com/scaling-infrastructure-for-millions-from-challenges-to-triumphs-part-1-6099141a99ef)
    (https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
-  (https://newsletter.systemdesign.one/p/hotstar-architecture)
+   (https://newsletter.systemdesign.one/p/hotstar-architecture)
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)
