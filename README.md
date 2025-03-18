@@ -137,6 +137,7 @@
    (https://www.techaheadcorp.com/blog/decoding-the-incredible-scalability-of-disneyhotstar-app-system-structure-concurrency-more/),
    (https://blog.hotstar.com/scaling-infrastructure-for-millions-from-challenges-to-triumphs-part-1-6099141a99ef)
    (https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
+  (https://newsletter.systemdesign.one/p/hotstar-architecture)
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)
