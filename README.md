@@ -157,6 +157,7 @@
 - [How Airbnb avoids double payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Stripe’s payments APIs - The first 10 years](https://stripe.com/blog/payment-api-design)
 - [Real time messaging at Slack](https://slack.engineering/real-time-messaging/)
+- [https://blog.bytebytego.com/p/79-engineering-blogs-to-level-up]
 
 ## 🗞️ Must-Read Distributed Systems Papers
 - [Paxos: The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
