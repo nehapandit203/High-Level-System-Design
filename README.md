@@ -129,7 +129,8 @@
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
-- [Design a Hotstar](https://www.scaler.com/academy/mentee-dashboard/class/77835/session)
+- [Design a Hotstar] (https://github.com/nehapandit203/High-Level-System-Design/blob/main/HotStar)
+- (https://www.scaler.com/academy/mentee-dashboard/class/77835/session)
    - [Part 1 Stored Streaming]
        - (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-1-159db2a3ca5d)
        - (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-2-a5c11a33891a)
