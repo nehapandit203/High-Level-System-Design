@@ -1,7 +1,8 @@
-- [Part 1 Stored Streaming]
+- [Desiging Stored Streaming]
    - (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-1-159db2a3ca5d)
    - (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-2-a5c11a33891a)
-- [Part 2 -Live Straming](https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
+- [Desiging Live Straming]
+   - (https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
    - (https://www.geeksforgeeks.org/how-to-design-a-live-video-streaming-system-like-espn/)
    - (https://medium.com/@saurabh.codes/system-design-live-streaming-to-millions-1739fc748ef8)
    - (https://www.geeksforgeeks.org/design-a-live-streaming-app-like-twitch-system-design/)
