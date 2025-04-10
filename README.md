@@ -129,7 +129,7 @@
 - [Design Notification Service](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
-- [Design a Hotstar] (https://github.com/nehapandit203/High-Level-System-Design/blob/main/HotStar)
+- [Design a Hotstar](https://github.com/nehapandit203/High-Level-System-Design/blob/main/HotStar)
 
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
