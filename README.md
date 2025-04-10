@@ -130,23 +130,7 @@
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
 - [Design a Hotstar] (https://github.com/nehapandit203/High-Level-System-Design/blob/main/HotStar)
-- (https://www.scaler.com/academy/mentee-dashboard/class/77835/session)
-   - [Part 1 Stored Streaming]
-       - (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-1-159db2a3ca5d)
-       - (https://levelup.gitconnected.com/high-level-design-for-a-video-streaming-platform-like-netflix-or-hotstar-part-2-a5c11a33891a)
-   - [Part 2 -Live Straming](https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
-       - (https://www.geeksforgeeks.org/how-to-design-a-live-video-streaming-system-like-espn/)
-       - (https://medium.com/@saurabh.codes/system-design-live-streaming-to-millions-1739fc748ef8)
-       - (https://www.geeksforgeeks.org/design-a-live-streaming-app-like-twitch-system-design/)
-       - (https://newsletter.systemdesign.one/p/live-streaming-architecture)
-   - [Part 3]
-       - (https://zahere.com/designing-a-live-video-streaming-service-like-disney-hotstar)
-       - (https://www.geeksforgeeks.org/how-disney-hotstar-managed-5-cr-live-viewers-during-indias-t20-world-cup-win/),
-       - (https://www.youtube.com/watch?v=kebzEEEeGBo)
-       - (https://www.techaheadcorp.com/blog/decoding-the-incredible-scalability-of-disneyhotstar-app-system-structure-concurrency-more/),
-       - (https://blog.hotstar.com/scaling-infrastructure-for-millions-from-challenges-to-triumphs-part-1-6099141a99ef)
-       - (https://blog.bytebytego.com/p/ep139-design-a-live-streaming-system)
-       - (https://newsletter.systemdesign.one/p/hotstar-architecture)
+
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
 - [Design Uber](https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)
