@@ -130,7 +130,7 @@
 - [Design Payment System](https://www.youtube.com/watch?v=olfaBgJrUBI)
 - [Design a Digital Wallet](https://www.youtube.com/watch?v=MCKdixWBnco)
 - [Design a Hotstar](https://github.com/nehapandit203/High-Level-System-Design/blob/main/HotStar.md)
-- [Design a Metric Monitoring and logging system](https://blog.bytebytego.com/p/metric-monitoring)
+- [Design a Metric Monitoring and logging system]([https://blog.bytebytego.com/p/metric-monitoring](https://drive.google.com/drive/u/1/folders/1DeXdsp0BB5D83OByThTEVlf7EVMDEzEY))
 
 ### Hard
 - [Design Location Based Service like Yelp](https://www.youtube.com/watch?v=M4lR_Va97cQ)
